@@ -1,0 +1,32 @@
+.mr-nav a {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 35px;
+}
+
+.mr-nav {
+  display: flex;
+  align-items: center;
+}
+
+.mr-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--mr-color-font-primary);
+  padding-top: 25px;
+}
+
+.mr-logo img {
+  width: 130px;
+}
+
+.mr-button-login {
+  border: 1.5px solid var(--mr-color-button-primary);
+  border-radius: 50px;
+  width: 101px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

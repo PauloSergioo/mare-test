@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+  --mr-color-bg-primary: #f5f5f5;
+  --mr-color-bg-secondary: #F2F4FF;
+  --mr-color-bg-tertiary: #FFF;
+  --mr-color-bg-quaternary: ;
+
+  --mr-color-font-primary: #fff;
+  --mr-color-font-secondary:#1D275F;
+  --mr-color-font-tertiary: #3D37F1;
+  --mr-color-font-quaternary: #000000;
+  --mr-color-font-description: #6A6A6A;
+
+  --mr-color-button-primary: #FFF;
+  --mr-color-button-secondary: #251ee2;
+  --mr-color-button-tertiary:#3D37F1;
+  
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans";
+}
+
+.mr-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+
+
+

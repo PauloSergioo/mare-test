@@ -1,0 +1,25 @@
+#mr-section-home {
+    background-image: url(../../assets/background.png);
+}
+
+.mr-homecard {
+    margin-top: 150px;
+    
+}
+
+#mr-section-catalog {
+    background-color: var(--mr-color-bg-primary);
+}
+
+.mr-catalog-cards {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(345px, 1fr));
+    padding-bottom: 50px;
+}
+
+.mr-load-more {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}

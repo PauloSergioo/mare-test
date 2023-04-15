@@ -1,0 +1,15 @@
+.mr-next-event {
+    color: var(--mr-color-font-secondary);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 110px;
+    padding-bottom: 80px;
+}
+
+.mr-next-event h2 {
+    font-size: 40px;
+}
+
+.mr-filters-container {
+    display: flex;
+}
