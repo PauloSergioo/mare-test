@@ -1,0 +1,29 @@
+.mr-footer {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mr-social-media img {
+    width: 30px;
+    margin: 0 5px 15px 5px;
+    cursor: pointer;
+}
+
+.mr-copyright {
+    margin-top: 50px;
+    font-size: 11px;
+}
+
+.mr-contact h6 {
+    font-size: 20px;
+}
+
+.mr-contact address {
+    font-size: 15px;
+}
+
+.mr-contact p {
+    font-size: 15px;
+}

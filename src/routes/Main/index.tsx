@@ -4,6 +4,7 @@ import HomeCard from "../../components/HomeCard";
 import NextEvents from "../../components/NextEvents";
 import ShowCatalog from "../../components/ShowCatalog";
 import LoadMore from "../../components/LoadMore";
+import Footer from "../../components/Footer";
 
 export default function Main() {
   return (
@@ -25,6 +26,8 @@ export default function Main() {
           <ShowCatalog />
           <ShowCatalog />
           <ShowCatalog />
+          <ShowCatalog />
+          <ShowCatalog />
         </div>
         <div className="mr-load-more">
           <LoadMore />
@@ -33,6 +36,9 @@ export default function Main() {
       <section>
 
       </section>
+      <footer id="mr-section-footer">
+        <Footer/>
+      </footer>
     </main>
   );
 }

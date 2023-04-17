@@ -19,6 +19,7 @@
 
 .mr-logo img {
   width: 130px;
+  cursor: pointer;
 }
 
 .mr-button-login {

@@ -9,7 +9,7 @@ export default function Header() {
       </div>
       <div className="mr-nav">
         <a href="">Inicio</a>
-        <a href="">Eventos</a>
+        <a href=".mr-section-catalog">Eventos</a>
         <a href="">Sobre Nós</a>
         <a href="">Contato</a>
         <div className="mr-button-login">Login</div>

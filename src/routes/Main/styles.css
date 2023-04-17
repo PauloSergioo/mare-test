@@ -23,3 +23,7 @@
     justify-content: center;
     padding-bottom: 50px;
 }
+
+#mr-section-footer {
+    border-top: 1.5px solid #c7c7c7;
+}
